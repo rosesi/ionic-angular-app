@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1566277519720,
+  "timestamp": 1566294400761,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -496,7 +496,7 @@
     "/assets/img/speakers/turtle.jpg": "8bf240a802062bf0ee3c1b31ff12cd9158b5734e",
     "/common-es2015.40a2c87f1e63d9a786e1.js": "8400ef5909fd9358030369098ba2680ac6ff308f",
     "/common-es5.ad91712b8da87ffc1d2f.js": "823c56af490b1960c378ccf87c72bea8fd8b5955",
-    "/index.html": "f46a42af48f1539c115915572c4a2bc039341552",
+    "/index.html": "b3b2eef534f9a57ca0bd084ad097a37727da91c9",
     "/main-es2015.e63cbb096582e30279d8.js": "2c0996699b9f35c05fa04d95bcd9d2bbe2552972",
     "/main-es5.c14c14ab457e2f599799.js": "e6bbc4a84fc52f01bcdf7d9e4cff3d3372cffba2",
     "/polyfills-es2015.63fe24bfa13c4599e9dd.js": "277f044e63043566647afdd3895013b3cbe23621",
